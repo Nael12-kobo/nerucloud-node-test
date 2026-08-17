@@ -82,8 +82,7 @@ const server = http.createServer((req, res) => {
           </h1>
 
           <p>
-            Aplikasi ini berjalan sebagai Node.js
-            container dari NeruCloud.
+            Node.js berhasil diupdate dari GitHub lewat NeruCloud 🔥
           </p>
 
           <p>
